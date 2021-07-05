@@ -21,7 +21,7 @@
         {
             "displayName": "Core use case",
             "description": "Contains the prefabs and scriptable objects necesary.",
-            "path": "Samples/CoreUseCase"
+            "path": "Samples~/CoreUseCase"
         }
     ],
     "hideInEditor": false,
