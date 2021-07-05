@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 41bcb74001cf4d34b9f6e4c30db84d97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameplayVisualEffects: {fileID: 11400000, guid: 41ae2d50f1bb0124c845f04ad85204c1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

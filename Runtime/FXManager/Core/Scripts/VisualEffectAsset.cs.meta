@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f87cc50c28879048abac969f01b1765
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 4883550676509265391, guid: e6918c173ca473e4e8c01c3a4c6a3142,
+      type: 3}
+  - gameplayPools: {fileID: 11400000, guid: 41ae2d50f1bb0124c845f04ad85204c1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

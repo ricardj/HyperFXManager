@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f87cc50c28879048abac969f01b1765, type: 3}
+  m_Name: SampleEffect
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4883550676509265391, guid: e6918c173ca473e4e8c01c3a4c6a3142, type: 3}
+  poolSize: 3
+  gameplayPools: {fileID: 11400000, guid: 41ae2d50f1bb0124c845f04ad85204c1, type: 2}
